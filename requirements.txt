@@ -1,0 +1,19 @@
+# Datenverarbeitung
+pandas==2.2.0
+numpy==1.26.0
+
+# Datenbanken
+redis==5.0.1
+influxdb-client==1.40.0
+cassandra-driver==3.29.0
+
+# Kaggle
+kaggle==1.6.6
+
+# Visualisierung
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.29.0

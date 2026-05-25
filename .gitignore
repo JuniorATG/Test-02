@@ -1,0 +1,25 @@
+# Kaggle Datensatz (zu groß für GitHub)
+datasets/*.csv
+datasets/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle API Key (niemals hochladen!)
+kaggle.json
+.kaggle/
+
+# Datenbank Daten (zu groß)
+docker/influxdb/data/
+docker/redis/data/
+
+# OS
+.DS_Store
+Thumbs.db
